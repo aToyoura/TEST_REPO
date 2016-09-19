@@ -1,4 +1,3 @@
 SAMPL
 
-aaa
-E
+aE
